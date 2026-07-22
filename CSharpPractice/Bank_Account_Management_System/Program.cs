@@ -2,60 +2,95 @@
 
 class BankAccount
 {
-    public int AccountNumber;
-    public string AccountHolderName;
-    private double Balance;
+    private int accountNumber;
+    private string accountHolderName;
+    private double balance;
 
-    public BankAccount(int AccountNumber, string AccountHolderName, double Balance)
+    private static int totalAccounts = 0;
+
+    public BankAccount(int accountNumber, string accountHolderName, double balance)
     {
-        this.AccountNumber = AccountNumber;
-        this.AccountHolderName = AccountHolderName;
-        this.Balance = Balance;
+        this.accountNumber = accountNumber;
+        this.accountHolderName = accountHolderName;
+        this.balance = balance;
+
+        totalAccounts++;
     }
+
     public void Deposit(double amount)
     {
-        if(amount > 0)
+        try
         {
-            Balance += amount;
-            Console.WriteLine($"Deposited: {amount}. New Balance: {Balance}");
+            if (amount <= 0)
+            {
+                throw new Exception("Deposit amount must be positive.");
+            }
+
+            balance += amount;
+            Console.WriteLine($"₹{amount} deposited successfully.");
         }
-        else
+        catch (Exception ex)
         {
-            Console.WriteLine("Deposit amount must be positive.");
+            Console.WriteLine(ex.Message);
         }
     }
-    public void withDraw(double amount)
+
+    public void Withdraw(double amount)
     {
-        if(amount > 0 && amount <= Balance)
+        try
         {
-            Balance -= amount;
-            Console.WriteLine($"Withdrew: {amount}. New Balance: {Balance}");
+            if (amount <= 0)
+            {
+                throw new Exception("Withdrawal amount must be positive.");
+            }
+
+            if (amount > balance)
+            {
+                throw new Exception("Insufficient balance.");
+            }
+
+            balance -= amount;
+            Console.WriteLine($"₹{amount} withdrawn successfully.");
         }
-        else
+        catch (Exception ex)
         {
-            Console.WriteLine("Invalid withdrawal amount.");
+            Console.WriteLine(ex.Message);
         }
     }
 
     public void CheckBalance()
     {
-        Console.WriteLine($"Current Balance: {Balance}");
+        Console.WriteLine($"Account Number : {accountNumber}");
+        Console.WriteLine($"Account Holder : {accountHolderName}");
+        Console.WriteLine($"Balance : ₹{balance}");
+    }
+
+    public static void TotalAccounts()
+    {
+        Console.WriteLine($"Total Accounts Created : {totalAccounts}");
     }
 }
 
 class Program
 {
-    public static void Main()
+    static void Main()
     {
-        BankAccount account = new BankAccount(123456, "Sarthak", 1000.0);
+        BankAccount account1 = new BankAccount(101, "Sarthak", 10000);
 
-        account.CheckBalance();
+        account1.CheckBalance();
 
-        account.Deposit(500.0);
+        account1.Deposit(5000);
 
-        account.withDraw(200.0);
+        account1.Withdraw(3000);
 
-        account.CheckBalance();
+        account1.Withdraw(20000);
 
+        account1.Deposit(-100);
+
+        account1.CheckBalance();
+
+        BankAccount account2 = new BankAccount(102, "Rahul", 5000);
+
+        BankAccount.TotalAccounts();
     }
 }
