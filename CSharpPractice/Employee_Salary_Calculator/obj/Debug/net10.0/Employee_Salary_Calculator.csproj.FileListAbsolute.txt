@@ -1,0 +1,14 @@
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\bin\Debug\net10.0\Employee_Salary_Calculator.exe
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\bin\Debug\net10.0\Employee_Salary_Calculator.deps.json
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\bin\Debug\net10.0\Employee_Salary_Calculator.runtimeconfig.json
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\bin\Debug\net10.0\Employee_Salary_Calculator.dll
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\bin\Debug\net10.0\Employee_Salary_Calculator.pdb
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.AssemblyInfoInputs.cache
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.AssemblyInfo.cs
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.csproj.CoreCompileInputs.cache
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.dll
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\refint\Employee_Salary_Calculator.dll
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.pdb
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\Employee_Salary_Calculator.genruntimeconfig.cache
+F:\Drive I\C# Training\CSharpPractice\Employee_Salary_Calculator\obj\Debug\net10.0\ref\Employee_Salary_Calculator.dll

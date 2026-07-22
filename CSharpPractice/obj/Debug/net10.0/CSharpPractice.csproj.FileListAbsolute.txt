@@ -1,0 +1,14 @@
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfoInputs.cache
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.AssemblyInfo.cs
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.csproj.CoreCompileInputs.cache
+F:\Drive I\C# Training\CSharpPractice\bin\Debug\net10.0\CSharpPractice.exe
+F:\Drive I\C# Training\CSharpPractice\bin\Debug\net10.0\CSharpPractice.deps.json
+F:\Drive I\C# Training\CSharpPractice\bin\Debug\net10.0\CSharpPractice.runtimeconfig.json
+F:\Drive I\C# Training\CSharpPractice\bin\Debug\net10.0\CSharpPractice.dll
+F:\Drive I\C# Training\CSharpPractice\bin\Debug\net10.0\CSharpPractice.pdb
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.dll
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\refint\CSharpPractice.dll
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.pdb
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\CSharpPractice.genruntimeconfig.cache
+F:\Drive I\C# Training\CSharpPractice\obj\Debug\net10.0\ref\CSharpPractice.dll
