@@ -12,3 +12,18 @@ F:\Drive I\C# Training\CSharpPractice\Student_Result_Management_System\obj\Debug
 F:\Drive I\C# Training\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.pdb
 F:\Drive I\C# Training\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.genruntimeconfig.cache
 F:\Drive I\C# Training\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\ref\Student_Result_Management_System.dll
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\bin\Debug\net10.0\Student_Result_Management_System.exe
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\bin\Debug\net10.0\Student_Result_Management_System.deps.json
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\bin\Debug\net10.0\Student_Result_Management_System.runtimeconfig.json
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\bin\Debug\net10.0\Student_Result_Management_System.dll
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\bin\Debug\net10.0\Student_Result_Management_System.pdb
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.AssemblyInfoInputs.cache
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.AssemblyInfo.cs
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.csproj.CoreCompileInputs.cache
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.sourcelink.json
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.dll
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\refint\Student_Result_Management_System.dll
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.pdb
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\Student_Result_Management_System.genruntimeconfig.cache
+C:\C#_Learning\C-_Learning\CSharpPractice\Student_Result_Management_System\obj\Debug\net10.0\ref\Student_Result_Management_System.dll

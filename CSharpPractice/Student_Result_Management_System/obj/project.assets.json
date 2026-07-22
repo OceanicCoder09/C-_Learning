@@ -8,26 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sarth\\.nuget\\packages\\": {}
+    "C:\\Users\\Sarthak Mahadik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Drive I\\C# Training\\CSharpPractice\\Student_Result_Management_System\\Student_Result_Management_System.csproj",
+      "projectUniqueName": "C:\\C#_Learning\\C-_Learning\\CSharpPractice\\Student_Result_Management_System\\Student_Result_Management_System.csproj",
       "projectName": "Student_Result_Management_System",
-      "projectPath": "F:\\Drive I\\C# Training\\CSharpPractice\\Student_Result_Management_System\\Student_Result_Management_System.csproj",
-      "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "F:\\Drive I\\C# Training\\CSharpPractice\\Student_Result_Management_System\\obj\\",
+      "projectPath": "C:\\C#_Learning\\C-_Learning\\CSharpPractice\\Student_Result_Management_System\\Student_Result_Management_System.csproj",
+      "packagesPath": "C:\\Users\\Sarthak Mahadik\\.nuget\\packages\\",
+      "outputPath": "C:\\C#_Learning\\C-_Learning\\CSharpPractice\\Student_Result_Management_System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Sarthak Mahadik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
